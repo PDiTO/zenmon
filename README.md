@@ -1,4 +1,4 @@
-# ZenMon
+# ZenMon v1.01
 
 ## An ETHGlobal London Hackathon Project
 
